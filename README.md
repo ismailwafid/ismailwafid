@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailwafid&label=Profile%20views&color=0e75b6&style=flat" alt="ismailwafid" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismailwafid" alt="ismailwafid" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/wafidismail" target="blank"><img src="https://img.shields.io/twitter/follow/wafidismail?logo=twitter&style=for-the-badge" alt="wafidismail" /></a> </p>
 
 - 🌱 I’m currently learning **C,C++,C#,Python**
