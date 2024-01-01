@@ -1,4 +1,4 @@
-![Logo](https://github.com/ismailwafid/ismailwafid_image/blob/main/Black%20Technology%20LinkedIn%20Banner.png?raw=true)
+
 ## 🚀 About Me
 I am a junior Front-End developer passionate about creating interactive and user-friendly web experiences. With a strong understanding of front-end technologies and a strong desire to learn and grow in the field, I am determined to make a meaningful contribution to innovative digital projects.
 
